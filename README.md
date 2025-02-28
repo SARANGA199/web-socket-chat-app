@@ -34,7 +34,7 @@ cd web-socket-chat-app
    go mod tidy
  
  3️⃣ Start the WebSocket Server
- Run the backend server using
+   Run the backend server using
    go run main.go
 
 The server should now be running on http://localhost:8080.
